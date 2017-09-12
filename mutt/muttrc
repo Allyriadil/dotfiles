@@ -1,0 +1,8 @@
+set imap_user = ariannebrink@posteo.de
+set folder = imaps://posteo.de/ 
+set spoolfile = +INBOX
+mailboxes = INBOX
+auto_view text/html
+alternative_order text/plain text/html
+set mailcap_path = ~/.config/mutt/mailcap
+
